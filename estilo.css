@@ -1,0 +1,34 @@
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    color: darkslategrey;
+}
+
+body {
+    background-color:aquamarine;
+    padding: 50px;
+}
+
+strong {
+    color: black;
+}
+img {
+    border-radius: 50%;
+    padding: 5px 5px 5px 5px;
+}
+
+p {
+    color: darkslategrey;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.destaque {
+    color: aqua;
+}
+
+h3 {
+    color:dimgrey;
+}
+
+a {
+    color:darkblue;
+}
