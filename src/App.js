@@ -23,6 +23,11 @@ function App() {
             <img src={e.projIco} />
             <h6>{e.name}</h6>
           </div>))}
+          {projectsList
+          .map((e) => (<div className='proj-icon-home' key={e.name} onClick={() => handlerVisibility(e.name)}>
+            <img src={e.projIco} />
+            <h6>{e.name}</h6>
+          </div>))}
       </div>
       {projectsList.filter((i) => i.name === projectOpened)
         .map((e) => (<CardProject key={e.name} project={e} visibility={handlerVisibility} />))}

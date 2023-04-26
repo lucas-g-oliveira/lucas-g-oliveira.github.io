@@ -10,7 +10,7 @@
   align-items: center;
   width: 100vw;
   height: 100vh;
-  background-color: rgb(26, 133, 26);
+  background-color: rgb(24, 172, 167);
 }
 
 .teste-bravo{
@@ -33,23 +33,35 @@
   border-radius: 10px;
   margin: 5px;
   text-align: center;
-  padding: 5px;
+  width: 110px;
+  height: 110px;
+  padding: 10px;
+  background-color: rgba(255, 255, 255, 0.7);
+  backdrop-filter: blur(8px);
+  box-shadow: rgba(100, 100, 111, 0.4) 5px 5px 10px 2px;
 }
 
 .div-icons-home{
   display: flex;
-  backdrop-filter: blur(8px);
-  border-radius: 15px;
-  background-color: rgba(255, 255, 255, 0.7);
-  box-shadow: rgba(100, 100, 111, 0.4) 5px 5px 10px 2px;
+  width: 100%;
+  overflow: scroll;
 }
 
 .proj-icon-home img {
-  width: 100px;
+  width: 80px;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 
 h3{
   color: black;
+}
+h6{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 80px;
+  height: 30px;
 }
 
 .input-feedback{
