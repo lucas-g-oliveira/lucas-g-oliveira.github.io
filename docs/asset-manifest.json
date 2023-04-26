@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.a79ebe40.css",
-    "main.js": "/static/js/main.3448d79e.js",
+    "main.css": "/static/css/main.01f31f64.css",
+    "main.js": "/static/js/main.49dd835d.js",
     "static/js/787.4f98832e.chunk.js": "/static/js/787.4f98832e.chunk.js",
     "static/media/starwars-planet-search.png": "/static/media/starwars-planet-search.8e4400a20a9747d5024c.png",
-    "static/media/lucas-g-oliveira.png": "/static/media/lucas-g-oliveira.05bb2eb96cce6a255452.png",
+    "static/media/lucas-g-oliveira.png": "/static/media/lucas-g-oliveira.57010341b82800c5549e.png",
     "static/media/app-delivery.png": "/static/media/app-delivery.941f95824943e6386d7a.png",
-    "static/media/drink.png": "/static/media/drink.7fbadba3ce3d6db0aa45.png",
+    "static/media/drink.png": "/static/media/drink.d4f8a3fdce58d68e55a7.png",
     "static/media/planet.png": "/static/media/planet.c82bd6d25817f6abe93d.png",
-    "static/media/bolSoccer.png": "/static/media/bolSoccer.603d39f28c3491cb0467.png",
+    "static/media/bolSoccer.png": "/static/media/bolSoccer.c067721c295735f50b36.png",
     "static/media/tfc.png": "/static/media/tfc.256e040d0ae44bb60202.png",
     "static/media/email-icon.png": "/static/media/email-icon.edde96781f1253399d92.png",
     "static/media/patrick.png": "/static/media/patrick.d04c078f4c7b3b1fdae4.png",
     "index.html": "/index.html",
-    "main.a79ebe40.css.map": "/static/css/main.a79ebe40.css.map",
-    "main.3448d79e.js.map": "/static/js/main.3448d79e.js.map",
+    "main.01f31f64.css.map": "/static/css/main.01f31f64.css.map",
+    "main.49dd835d.js.map": "/static/js/main.49dd835d.js.map",
     "787.4f98832e.chunk.js.map": "/static/js/787.4f98832e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a79ebe40.css",
-    "static/js/main.3448d79e.js"
+    "static/css/main.01f31f64.css",
+    "static/js/main.49dd835d.js"
   ]
 }
